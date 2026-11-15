@@ -1,0 +1,15 @@
+{
+  "lignes_brutes": 6016,
+  "ventes_valides": 6000,
+  "commandes": 3000,
+  "rejets": 6,
+  "doublons": 10,
+  "ca_net_eur": 1521543.0,
+  "marge_estimee_eur": 484590.25,
+  "objectifs_eur": 585000.0,
+  "panier_moyen_eur": 507.18,
+  "magasins": 6,
+  "produits": 30,
+  "stocks": 180,
+  "objectifs": 36
+}
